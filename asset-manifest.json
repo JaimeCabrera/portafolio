@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/JaimeCabrera/portafolio/static/css/main.87309d04.chunk.css",
+    "main.js": "/JaimeCabrera/portafolio/static/js/main.1dea70f1.chunk.js",
+    "main.js.map": "/JaimeCabrera/portafolio/static/js/main.1dea70f1.chunk.js.map",
+    "runtime-main.js": "/JaimeCabrera/portafolio/static/js/runtime-main.0a98d4d6.js",
+    "runtime-main.js.map": "/JaimeCabrera/portafolio/static/js/runtime-main.0a98d4d6.js.map",
+    "static/js/2.b9d7d087.chunk.js": "/JaimeCabrera/portafolio/static/js/2.b9d7d087.chunk.js",
+    "static/js/2.b9d7d087.chunk.js.map": "/JaimeCabrera/portafolio/static/js/2.b9d7d087.chunk.js.map",
+    "static/js/3.978b3d39.chunk.js": "/JaimeCabrera/portafolio/static/js/3.978b3d39.chunk.js",
+    "static/js/3.978b3d39.chunk.js.map": "/JaimeCabrera/portafolio/static/js/3.978b3d39.chunk.js.map",
+    "index.html": "/JaimeCabrera/portafolio/index.html",
+    "static/css/main.87309d04.chunk.css.map": "/JaimeCabrera/portafolio/static/css/main.87309d04.chunk.css.map",
+    "static/js/2.b9d7d087.chunk.js.LICENSE.txt": "/JaimeCabrera/portafolio/static/js/2.b9d7d087.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.09c79161.svg": "/JaimeCabrera/portafolio/static/media/arrow-down.09c79161.svg",
+    "static/media/dev.a6ca5960.png": "/JaimeCabrera/portafolio/static/media/dev.a6ca5960.png",
+    "static/media/icon-email.536e03a8.svg": "/JaimeCabrera/portafolio/static/media/icon-email.536e03a8.svg",
+    "static/media/icon-phone.1c2fe4ed.svg": "/JaimeCabrera/portafolio/static/media/icon-phone.1c2fe4ed.svg",
+    "static/media/icon-twitter.96f8c22b.svg": "/JaimeCabrera/portafolio/static/media/icon-twitter.96f8c22b.svg",
+    "static/media/ot.55b3ffeb.PNG": "/JaimeCabrera/portafolio/static/media/ot.55b3ffeb.PNG",
+    "static/media/otb.a96b53ae.PNG": "/JaimeCabrera/portafolio/static/media/otb.a96b53ae.PNG",
+    "static/media/portafolio.ba0dea72.PNG": "/JaimeCabrera/portafolio/static/media/portafolio.ba0dea72.PNG",
+    "static/media/sl.0b0e17c9.PNG": "/JaimeCabrera/portafolio/static/media/sl.0b0e17c9.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a98d4d6.js",
+    "static/js/2.b9d7d087.chunk.js",
+    "static/css/main.87309d04.chunk.css",
+    "static/js/main.1dea70f1.chunk.js"
+  ]
+}
