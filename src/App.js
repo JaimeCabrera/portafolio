@@ -7,6 +7,7 @@ import ot_image from "./assets/images/ot.PNG";
 import sl_image from "./assets/images/sl.PNG";
 import otb_image from "./assets/images/otb.PNG";
 import portafolio_image from "./assets/images/portafolio.PNG";
+import gif_image from "./assets/images/gif.PNG";
 import { ContactForm } from "./components/ContactForm";
 
 function App() {
@@ -45,6 +46,13 @@ function App() {
           img={portafolio_image}
           code="https://github.com/JaimeCabrera/portafolio"
           url="https://jaimecabrera.github.io/portafolio/"
+        />
+        <Project
+          description="Gift Expert un buscador de Gifs usando el api de giphy hecha con react usando hooks"
+          title="Buscador de Gifs"
+          img={gif_image}
+          code="https://github.com/JaimeCabrera/gift-expert"
+          url="https://jaimecabrera.github.io/gift-expert/"
         />
       </section>
       <section className="contact" id="contact">
