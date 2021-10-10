@@ -40,11 +40,11 @@ function App() {
           url="http://18.190.130.92/"
         />
         <Project
-          description="Plantilla para un portafolio hecho con html5, css"
+          description="Plantilla para un portafolio hecho con reactjs"
           title="Portafolio"
           img={portafolio_image}
-          code="https://github.com/JaimeCabrera/prog2api"
-          url="https://jaimecabrera.github.io/portafolio-jaume/#main"
+          code="https://github.com/JaimeCabrera/portafolio"
+          url="https://jaimecabrera.github.io/portafolio/"
         />
       </section>
       <section className="contact" id="contact">
