@@ -3,26 +3,25 @@ import React from "react";
 export const ContactForm = () => {
   return (
     <>
-      <form action="" method="" class="form">
-        <div class="form-content">
-          <h2 class="title">Hablemos</h2>
+      <form action="" method="" className="form">
+        <div className="form-content">
+          <h2 className="title">Hablemos</h2>
           <p>
             Si está interesado en trabajar conmigo en su próximo proyecto, no
             dude en ponerse en contacto conmigo.
           </p>
-          <div class="form-control">
-            <label for="form-name">Nombre Completo </label>
+          <div className="form-control">
+            <label>Nombre Completo </label>
             <input
               name="name"
               id="form-name"
               type="text"
-              placeholder="Juan"
-              autofocus
+              placeholder="Jaime"
               required
             />
           </div>
-          <div class="form-control">
-            <label for="form-email">Correo Electronico </label>
+          <div className="form-control">
+            <label>Correo Electrónico </label>
             <input
               name="email"
               id="form-email"
@@ -31,8 +30,8 @@ export const ContactForm = () => {
               required
             />
           </div>
-          <div class="form-control">
-            <label for="form-message">Mensaje </label>
+          <div className="form-control">
+            <label>Mensaje </label>
             <textarea
               name="message"
               id="form-message"
@@ -43,7 +42,7 @@ export const ContactForm = () => {
               required
             ></textarea>
           </div>
-          <button class="btn btn-primary" type="submit">
+          <button className="btn btn-primary" type="submit">
             Enviar Mensaje
           </button>
         </div>

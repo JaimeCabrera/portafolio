@@ -11,7 +11,7 @@ export const SectionComment = () => {
             trabajar en proyectos retadores e increíbles
           </p>
           <p className="comment_info">
-            Aquí hay algunos que me gustaría compartir.
+            Aquí hay algunos que me gustaría compartir contigo.
           </p>
           <a className="info-icon" href="#ff">
             <img src={arrow_down} width="80" height="80" alt="flecha abajo" />

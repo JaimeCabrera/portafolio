@@ -27,21 +27,21 @@ function App() {
           url="https://jaimecabrera.github.io/prog2web/"
         />
         <Project
-          description="Backend del proyecto Organizador de tareas, api rest hecha con node y exprees, con una base de datos Mysql, usando el ORM Sequelize, ademas de Jwt para la autenticacion y nodemailer para el envio de correos, el backend esta en heroku"
+          description="Backend del proyecto Organizador de tareas, api rest hecha con node y express, con una base de datos Mysql, usando el ORM Sequelize, ademas de Jwt para la autenticacion y nodemailer para el envio de correos, el backend esta en heroku"
           title="Organizador de Tareas Backend"
           img={otb_image}
           code="https://github.com/JaimeCabrera/prog2api"
           url="https://apiprog2.herokuapp.com/"
         />
         <Project
-          description="Catalogo de productos hecho con Laravel 7 y Vuejs actualmente esta desplegado el aws en un maquina virtual tiene una base de datos Mysql "
-          title="Catalogo de productos"
+          description="Catálogo de productos hecho con Laravel 7 y Vuejs actualmente esta desplegado el aws, en un maquina virtual tiene una base de datos Mysql "
+          title="Catálogo de productos"
           img={sl_image}
           code="https://github.com/JaimeCabrera/prog2api"
           url="http://18.190.130.92/"
         />
         <Project
-          description="Plantilla para un portafolio hecho con reactjs"
+          description="Plantilla para un portafolio hecha con reactjs"
           title="Portafolio"
           img={portafolio_image}
           code="https://github.com/JaimeCabrera/portafolio"

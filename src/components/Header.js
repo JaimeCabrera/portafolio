@@ -2,14 +2,16 @@ import React from "react";
 import { Button } from "./Button";
 
 export const Header = () => {
+
+ 
   return (
     <>
       <header className="header">
         <span className="logo">JC</span>
-        <nav class="menu">
+        <nav className="menu">
           <ul>
             <li>
-              <a class="is-active" href="#main">
+              <a className="is-active" href="#main">
                 Hola
               </a>
             </li>
@@ -21,7 +23,7 @@ export const Header = () => {
             </li>
           </ul>
         </nav>
-        <Button title="Curriculum" />
+        <Button title="Curriculum"/>
       </header>
     </>
   );

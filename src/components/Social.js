@@ -6,13 +6,13 @@ export const Social = () => {
   return (
     <>
       <div className="social">
-        <a class="btn-icon" href="tel:0982953515">
+        <a className="btn-icon" href="tel:0982953515">
           <img src={ic_phone} alt="tel" />
         </a>
-        <a class="btn-icon" href="mailto:jycabrerap@unl.edu.ec">
+        <a className="btn-icon" href="mailto:jycabrerap@unl.edu.ec">
           <img src={ic_email} alt="tel" />
         </a>
-        <a class="btn-icon" href="#twitter">
+        <a className="btn-icon" href="#twitter">
           <img src={ic_twitter} alt="tel" />
         </a>
       </div>
