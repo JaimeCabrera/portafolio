@@ -8,6 +8,7 @@ import sl_image from "./assets/images/sl.PNG";
 import otb_image from "./assets/images/otb.PNG";
 import portafolio_image from "./assets/images/portafolio.PNG";
 import gif_image from "./assets/images/gif.PNG";
+import hero_img from './assets/images/hero_img.png'
 import { ContactForm } from "./components/ContactForm";
 
 function App() {
@@ -53,6 +54,13 @@ function App() {
           img={gif_image}
           code="https://github.com/JaimeCabrera/gift-expert"
           url="https://jaimecabrera.github.io/gift-expert/"
+        />
+        <Project
+          description="Hero App, una apliacion con un listado de heroes DC, Marvel, un buscador de hero por nombre react usando hooks"
+          title="Heroe App"
+          img={hero_img}
+          code="https://github.com/JaimeCabrera/heroesapp"
+          url="https://heroesapp-zeta.vercel.app/"
         />
       </section>
       <section className="contact" id="contact">
